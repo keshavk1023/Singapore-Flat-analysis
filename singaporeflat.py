@@ -10,7 +10,7 @@ import os
 warnings.filterwarnings("ignore")
 
 # Set working directory
-os.chdir("C:\\Users\\jeetg\\code\\flat")
+os.chdir("C:\\Users\\keshavk\\code\\flat")
 
 # Define constants for min/max values
 MIN_FLOOR_AREA = 31
